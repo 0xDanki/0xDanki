@@ -1,10 +1,6 @@
 # 0xDanki
 
-Blockchain, applied cryptography, web3 UX, and technical guides.
-
-I work on blockchain legos, smart contract security, and cryptographic systems. My interests span security research, developer tooling, and privacy-preserving systems.
-
-I am also involved in developer education and open-source initiatives that strengthen the Ethereum ecosystem in APAC.
+Just a friendly donkey scratching an itch.
 
 ---
 
@@ -20,7 +16,7 @@ I am also involved in developer education and open-source initiatives that stren
 
 ## Currently
 
-- Researching applied cryptography and defensive technologies
+- Researching applied cryptography and privacy-preserving technologies
 - Building developer tooling and experiments around the verifiable web
 - Teaching blockchain development and Ethereum through workshops, documentation, and articles
 
