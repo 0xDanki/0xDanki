@@ -1,10 +1,10 @@
 # 0xDanki
 
-Blockchain, applied cryptography, blockchain UX, and technical guides.
+Blockchain, applied cryptography, web3 UX, and technical guides.
 
-I work on blockchain infrastructure, smart contract security, and cryptographic systems. My interests span security research, developer tooling, and privacy-preserving systems.
+I work on blockchain legos, smart contract security, and cryptographic systems. My interests span security research, developer tooling, and privacy-preserving systems.
 
-I am also involved in developer education and open-source initiatives that strengthen the Ethereum ecosystem in Southeast Asia.
+I am also involved in developer education and open-source initiatives that strengthen the Ethereum ecosystem in APAC.
 
 ---
 
@@ -21,6 +21,7 @@ I am also involved in developer education and open-source initiatives that stren
 
 - https://paragraph.com/@tinerispe
 - https://philstartech.com/author/christineerispe/
+- https://ethphilippines.com
 
 I write about cryptography, smart contract security, and occassional absurd rants at the intersection of human and machines.
 
