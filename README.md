@@ -9,12 +9,21 @@ I am also involved in developer education and open-source initiatives that stren
 ---
 
 ## Areas of Focus
-- Applied Cryptography
+
+- Applied Cryptography - Zero Knowledge Proofs (ZKP) and Multiparty Computation (MPC)
 - Ethereum developer tooling
 - Web3 UX
 - DeFi
 - Developer education and ecosystem growth
   
+---
+
+## Currently
+
+- Researching applied cryptography and defensive technologies
+- Building developer tooling and experiments around the verifiable web
+- Teaching blockchain development and Ethereum through workshops, documentation, and articles
+
 ---
 
 ## Writing
