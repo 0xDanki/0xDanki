@@ -14,7 +14,7 @@ Just a friendly donkey scratching an itch
 
 ## Currently
 
-- Researching applied cryptography and privacy-preserving technologies
+- Researching and engineering privacy-preserving technologies
 - Building developer tooling and experiments around the verifiable web
 - Teaching blockchain development and Ethereum through workshops, documentation, and articles
 
