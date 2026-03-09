@@ -1,8 +1,7 @@
 # 0xDanki
 
-Just a friendly donkey scratching an itch.
+Just a friendly donkey scratching an itch
 
----
 
 ## Areas of Focus
 
@@ -12,7 +11,6 @@ Just a friendly donkey scratching an itch.
 - DeFi and Real World Asset Tokenization (RWA)
 - Developer education and ecosystem growth
   
----
 
 ## Currently
 
@@ -20,7 +18,6 @@ Just a friendly donkey scratching an itch.
 - Building developer tooling and experiments around the verifiable web
 - Teaching blockchain development and Ethereum through workshops, documentation, and articles
 
----
 
 ## Writing
 
@@ -30,7 +27,6 @@ Just a friendly donkey scratching an itch.
 
 I write about cryptography, smart contract security, and occassional absurd rants at the intersection of human and machines.
 
----
 
 ## Contact
 
