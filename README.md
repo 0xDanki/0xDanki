@@ -1,5 +1,34 @@
-### henlo der 👋
+# 0xDanki
 
-i'm Danki💻🎠, a passionate smart contract developer and UX designer. i take great care in the experience, architecture, and code quality of the things i build.
-i am also a defi nerd and a smart contract security enthusiast. i learned a lot from using decentralized apps myself and reading their docs and codebases. most of all, i love how collaboration and knowledge sharing happen in the blockchain space.
+Blockchain, applied cryptography, blockchain UX, and technical guides.
 
+I work on blockchain infrastructure, smart contract security, and cryptographic systems. My interests span security research, developer tooling, and privacy-preserving systems.
+
+I am also involved in developer education and open-source initiatives that strengthen the Ethereum ecosystem in Southeast Asia.
+
+---
+
+## Areas of Focus
+- Applied Cryptography
+- Ethereum developer tooling
+- Web3 UX
+- DeFi
+- Developer education and ecosystem growth
+  
+---
+
+## Writing
+
+- https://paragraph.com/@tinerispe
+- https://philstartech.com/author/christineerispe/
+
+I write about cryptography, smart contract security, and occassional absurd rants at the intersection of human and machines.
+
+---
+
+## Contact
+
+For collaborations, research, protocol work, or developer ecosystem initiatives:
+
+- Twitter / X: https://twitter.com/0xDankiii
+- GitHub: https://github.com/0xDanki
