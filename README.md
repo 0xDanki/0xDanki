@@ -13,7 +13,7 @@ I am also involved in developer education and open-source initiatives that stren
 - Applied Cryptography - Zero Knowledge Proofs (ZKP) and Multiparty Computation (MPC)
 - Ethereum developer tooling
 - Web3 UX
-- DeFi
+- DeFi and Real World Asset Tokenization (RWA)
 - Developer education and ecosystem growth
   
 ---
